@@ -175,11 +175,11 @@ Distribution of the PUT Latency in ms
 | Crowd time | 1601.76s |
 | Crowd efficiency | 54.63% |
 | Highest Latency | 281.66ms |
-| 95th percentile Latency | 105.25ms |
+| 95th percentile Latency | 106.73ms |
 | 68th percentile Latency | 77.09ms |
 | 50th percentile Latency | 68.19ms |
 | 32nd percentile Latency | 59.30ms |
-| 5th percentile Latency | 40.03ms |
+| 5th percentile Latency | 41.51ms |
 | Lowest Latency | 17.79ms |
 
 
@@ -211,9 +211,9 @@ Distribution of the GET Latency in ms
 | Crowd efficiency | 44.70% |
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
-| 68th percentile Latency | 62.26ms |
+| 68th percentile Latency | 63.74ms |
 | 50th percentile Latency | 54.85ms |
-| 32nd percentile Latency | 47.44ms |
+| 32nd percentile Latency | 48.92ms |
 | 5th percentile Latency | 35.58ms |
 | Lowest Latency | 20.75ms |
 
@@ -271,5 +271,5 @@ Distribution of the DELETE Latency in ms
 | 50th percentile Latency | 47.44ms |
 | 32nd percentile Latency | 41.51ms |
 | 5th percentile Latency | 31.13ms |
-| Lowest Latency | 8.89ms |
+| Lowest Latency | 7.41ms |
 
