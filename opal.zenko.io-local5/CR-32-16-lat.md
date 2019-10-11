@@ -50,11 +50,11 @@ Distribution of the PUT Latency in ms
 | Client Limbo | 1.59ms/PUT |
 | Crowd time | 4799.70s |
 | Crowd efficiency | 99.47% |
-| Highest Latency | 247.56ms |
+| Highest Latency | 249.05ms |
 | 95th percentile Latency | 80.05ms |
-| 68th percentile Latency | 59.30ms |
+| 68th percentile Latency | 60.78ms |
 | 50th percentile Latency | 53.37ms |
-| 32nd percentile Latency | 47.44ms |
+| 32nd percentile Latency | 48.92ms |
 | 5th percentile Latency | 35.58ms |
 | Lowest Latency | 16.31ms |
 
@@ -108,9 +108,9 @@ Distribution of the GET Latency in ms
 | Crowd efficiency | 98.75% |
 | Highest Latency | 295.00ms |
 | 95th percentile Latency | 108.22ms |
-| 68th percentile Latency | 75.60ms |
-| 50th percentile Latency | 65.23ms |
-| 32nd percentile Latency | 56.33ms |
+| 68th percentile Latency | 77.09ms |
+| 50th percentile Latency | 66.71ms |
+| 32nd percentile Latency | 57.81ms |
 | 5th percentile Latency | 40.03ms |
 | Lowest Latency | 20.75ms |
 
@@ -180,7 +180,7 @@ Distribution of the PUT Latency in ms
 | 50th percentile Latency | 68.19ms |
 | 32nd percentile Latency | 59.30ms |
 | 5th percentile Latency | 41.51ms |
-| Lowest Latency | 17.79ms |
+| Lowest Latency | 19.27ms |
 
 
 ### GET Latency distribution in ms
@@ -212,7 +212,7 @@ Distribution of the GET Latency in ms
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
 | 68th percentile Latency | 63.74ms |
-| 50th percentile Latency | 54.85ms |
+| 50th percentile Latency | 56.33ms |
 | 32nd percentile Latency | 48.92ms |
 | 5th percentile Latency | 35.58ms |
 | Lowest Latency | 20.75ms |
@@ -265,11 +265,11 @@ Distribution of the DELETE Latency in ms
 | Client Limbo | 1.26ms/DELETE |
 | Crowd time | 4223.89s |
 | Crowd efficiency | 99.52% |
-| Highest Latency | 266.83ms |
+| Highest Latency | 268.32ms |
 | 95th percentile Latency | 71.16ms |
 | 68th percentile Latency | 53.37ms |
 | 50th percentile Latency | 47.44ms |
-| 32nd percentile Latency | 41.51ms |
+| 32nd percentile Latency | 42.99ms |
 | 5th percentile Latency | 31.13ms |
-| Lowest Latency | 7.41ms |
+| Lowest Latency | 8.89ms |
 
