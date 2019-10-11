@@ -37,19 +37,19 @@ Distribution of the PUT Latency in ms
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
 | Server volume | 2.685MiB|
-| Server bandwidth | 0.009MiB/s |
-| Server time | 299.98s |
-| Server load | 15.92 |
+| Server bandwidth | 0.000MiB/s |
+| Server time | 299981.00s |
+| Server load | 0.00 |
 | Server responses | 87996PUT |
-| Server IOps | 293.34PUT/s |
-| Client bandwidth | 0.001MiB/s |
+| Server IOps | 0.29PUT/s |
+| Client bandwidth | 0.000MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 4774.27s |
-| Client IOps |  18.43PUT/s  |
-| Client Latency | 54.26ms/PUT |
-| Client Limbo | 1.59ms/PUT |
-| Crowd time | 4799.70s |
-| Crowd efficiency | 99.47% |
+| Client time | 0.00s |
+| Client IOps |  InfinityPUT/s  |
+| Client Latency | 0.00ms/PUT |
+| Client Limbo | 299981.00ms/PUT |
+| Crowd time | 4799696.00s |
+| Crowd efficiency | 0.00% |
 | Highest Latency | 247.56ms |
 | 95th percentile Latency | 80.05ms |
 | 68th percentile Latency | 59.30ms |
@@ -93,19 +93,19 @@ Distribution of the GET Latency in ms
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
 | Server volume | 0.708MiB|
-| Server bandwidth | 0.007MiB/s |
-| Server time | 100.05s |
-| Server load | 15.81 |
+| Server bandwidth | 0.000MiB/s |
+| Server time | 100053.00s |
+| Server load | 0.00 |
 | Server responses | 23201GET |
-| Server IOps | 231.89GET/s |
+| Server IOps | 0.23GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
-| Client time | 1582.02s |
-| Client IOps |  14.67GET/s  |
-| Client Latency | 68.19ms/GET |
-| Client Limbo | 1.18ms/GET |
-| Crowd time | 1600.85s |
-| Crowd efficiency | 98.82% |
+| Client time | 0.00s |
+| Client IOps |  InfinityGET/s  |
+| Client Latency | 0.00ms/GET |
+| Client Limbo | 100053.00ms/GET |
+| Crowd time | 1600848.00s |
+| Crowd efficiency | 0.00% |
 | Highest Latency | 295.00ms |
 | 95th percentile Latency | 108.22ms |
 | 68th percentile Latency | 75.60ms |
@@ -161,19 +161,19 @@ Distribution of the PUT Latency in ms
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
 | Server volume | 0.387MiB|
-| Server bandwidth | 0.004MiB/s |
-| Server time | 100.11s |
-| Server load | 15.89 |
+| Server bandwidth | 0.000MiB/s |
+| Server time | 100110.00s |
+| Server load | 0.00 |
 | Server responses | 12686PUT |
-| Server IOps | 126.72PUT/s |
+| Server IOps | 0.13PUT/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 1590.98s |
-| Client IOps |  7.97PUT/s  |
-| Client Latency | 125.41ms/PUT |
-| Client Limbo | 0.67ms/PUT |
-| Crowd time | 1601.76s |
-| Crowd efficiency | 99.33% |
+| Client time | 0.00s |
+| Client IOps |  InfinityPUT/s  |
+| Client Latency | 0.00ms/PUT |
+| Client Limbo | 100110.00ms/PUT |
+| Crowd time | 1601760.00s |
+| Crowd efficiency | 0.00% |
 | Highest Latency | 281.66ms |
 | 95th percentile Latency | 105.25ms |
 | 68th percentile Latency | 77.09ms |
@@ -196,19 +196,19 @@ Distribution of the GET Latency in ms
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
 | Server volume | 0.384MiB|
-| Server bandwidth | 0.004MiB/s |
-| Server time | 100.11s |
-| Server load | 15.89 |
+| Server bandwidth | 0.000MiB/s |
+| Server time | 100110.00s |
+| Server load | 0.00 |
 | Server responses | 12579GET |
-| Server IOps | 125.65GET/s |
+| Server IOps | 0.13GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 1590.98s |
-| Client IOps |  7.91GET/s  |
-| Client Latency | 126.48ms/GET |
-| Client Limbo | 0.67ms/GET |
-| Crowd time | 1601.76s |
-| Crowd efficiency | 99.33% |
+| Client time | 0.00s |
+| Client IOps |  InfinityGET/s  |
+| Client Latency | 0.00ms/GET |
+| Client Limbo | 100110.00ms/GET |
+| Crowd time | 1601760.00s |
+| Crowd efficiency | 0.00% |
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
 | 68th percentile Latency | 62.26ms |
@@ -252,19 +252,19 @@ Distribution of the DELETE Latency in ms
 | Y Coordinate | Number of DELETE |
 | X Coordinate | Latency in ms |
 | Server volume | 2.686MiB|
-| Server bandwidth | 0.010MiB/s |
-| Server time | 263.99s |
-| Server load | 15.93 |
+| Server bandwidth | 0.000MiB/s |
+| Server time | 263993.00s |
+| Server load | 0.00 |
 | Server responses | 88004DELETE |
-| Server IOps | 333.36DELETE/s |
-| Client bandwidth | 0.001MiB/s |
+| Server IOps | 0.33DELETE/s |
+| Client bandwidth | 0.000MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 4204.79s |
-| Client IOps |  20.93DELETE/s  |
-| Client Latency | 47.78ms/DELETE |
-| Client Limbo | 1.19ms/DELETE |
-| Crowd time | 4223.89s |
-| Crowd efficiency | 99.55% |
+| Client time | 0.00s |
+| Client IOps |  InfinityDELETE/s  |
+| Client Latency | 0.00ms/DELETE |
+| Client Limbo | 263993.00ms/DELETE |
+| Crowd time | 4223888.00s |
+| Crowd efficiency | 0.00% |
 | Highest Latency | 266.83ms |
 | 95th percentile Latency | 71.16ms |
 | 68th percentile Latency | 53.37ms |
