@@ -1,1 +1,1 @@
-{"startTime":1570750603383,"endTime":1570750764465,"minLatency":30,"maxLatency":95837,"testDuration":161082,"dX":809.4572864321608,"dY":481.5929648241206}
+{"startTime":1570750603383,"endTime":1570750764465,"minLatency":30,"maxLatency":95837,"minMetric":30,"maxMetric":95837,"testDuration":161082,"dX":809.4572864321608,"dY":481.5929648241206,"dYMetric":481.5929648241206}
