@@ -46,7 +46,7 @@ Distribution of the PUT Latency in ms
 | Client volume | 0.168MiB|
 | Client time | 3723.62s |
 | Client IOps |  23.63PUT/s  |
-| Client Latency | 0.04ms |
+| Client Latency | 40ms |
 | Crowd time | 4799.70s |
 | Crowd efficiency | 77.58% |
 | Highest Latency | 247.56ms |
@@ -101,7 +101,7 @@ Distribution of the GET Latency in ms
 | Client volume | 0.044MiB|
 | Client time | 1275.54s |
 | Client IOps |  18.19GET/s  |
-| Client Latency | 0.05ms |
+| Client Latency | 50ms |
 | Crowd time | 1600.85s |
 | Crowd efficiency | 79.68% |
 | Highest Latency | 295.00ms |
@@ -168,7 +168,7 @@ Distribution of the PUT Latency in ms
 | Client volume | 0.024MiB|
 | Client time | 715.29s |
 | Client IOps |  17.74PUT/s  |
-| Client Latency | 0.06ms |
+| Client Latency | 60ms |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 44.66% |
 | Highest Latency | 281.66ms |
@@ -202,7 +202,7 @@ Distribution of the GET Latency in ms
 | Client volume | 0.024MiB|
 | Client time | 564.98s |
 | Client IOps |  22.26GET/s  |
-| Client Latency | 0.04ms |
+| Client Latency | 40ms |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 35.27% |
 | Highest Latency | 207.54ms |
@@ -257,7 +257,7 @@ Distribution of the DELETE Latency in ms
 | Client volume | 0.168MiB|
 | Client time | 3386.09s |
 | Client IOps |  25.99DELETE/s  |
-| Client Latency | 0.04ms |
+| Client Latency | 40ms |
 | Crowd time | 4223.89s |
 | Crowd efficiency | 80.17% |
 | Highest Latency | 266.83ms |
