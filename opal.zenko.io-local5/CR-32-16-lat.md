@@ -37,18 +37,18 @@ Distribution of the PUT Latency in ms
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
 | Server volume | 2.685MiB|
-| Server bandwidth | 0.000MiB/s |
-| Server time | 299981.00s |
+| Server bandwidth | 0.009MiB/s |
+| Server time | 299.98s |
 | Server load | 15.92 |
 | Server responses | 87996PUT |
-| Server IOps | 0.29PUT/s |
-| Client bandwidth | 0.000MiB/s |
+| Server IOps | 293.34PUT/s |
+| Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 4774270.00s |
-| Client IOps |  0.02PUT/s  |
-| Client Latency | 54255.53ms/PUT |
-| Client Limbo | 1589.13ms/PUT |
-| Crowd time | 4799696.00s |
+| Client IOps |  18.43PUT/s  |
+| Client Latency | 54.26ms/PUT |
+| Client Limbo | 1.59ms/PUT |
+| Crowd time | 4799.70s |
 | Crowd efficiency | 99.47% |
 | Highest Latency | 247.56ms |
 | 95th percentile Latency | 80.05ms |
@@ -93,18 +93,18 @@ Distribution of the GET Latency in ms
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
 | Server volume | 0.708MiB|
-| Server bandwidth | 0.000MiB/s |
-| Server time | 100053.00s |
+| Server bandwidth | 0.007MiB/s |
+| Server time | 100.05s |
 | Server load | 15.80 |
 | Server responses | 23201GET |
-| Server IOps | 0.23GET/s |
+| Server IOps | 231.89GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
 | Client time | 1580789.00s |
-| Client IOps |  0.01GET/s  |
-| Client Latency | 68134.52ms/GET |
-| Client Limbo | 1253.69ms/GET |
-| Crowd time | 1600848.00s |
+| Client IOps |  14.68GET/s  |
+| Client Latency | 68.13ms/GET |
+| Client Limbo | 1.25ms/GET |
+| Crowd time | 1600.85s |
 | Crowd efficiency | 98.75% |
 | Highest Latency | 295.00ms |
 | 95th percentile Latency | 108.22ms |
@@ -161,18 +161,18 @@ Distribution of the PUT Latency in ms
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
 | Server volume | 0.387MiB|
-| Server bandwidth | 0.000MiB/s |
-| Server time | 100110.00s |
+| Server bandwidth | 0.004MiB/s |
+| Server time | 100.11s |
 | Server load | 8.74 |
 | Server responses | 12686PUT |
-| Server IOps | 0.13PUT/s |
+| Server IOps | 126.72PUT/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 875030.00s |
-| Client IOps |  0.01PUT/s  |
-| Client Latency | 68976.04ms/PUT |
-| Client Limbo | 45420.63ms/PUT |
-| Crowd time | 1601760.00s |
+| Client IOps |  14.50PUT/s  |
+| Client Latency | 68.98ms/PUT |
+| Client Limbo | 45.42ms/PUT |
+| Crowd time | 1601.76s |
 | Crowd efficiency | 54.63% |
 | Highest Latency | 281.66ms |
 | 95th percentile Latency | 105.25ms |
@@ -196,18 +196,18 @@ Distribution of the GET Latency in ms
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
 | Server volume | 0.384MiB|
-| Server bandwidth | 0.000MiB/s |
-| Server time | 100110.00s |
+| Server bandwidth | 0.004MiB/s |
+| Server time | 100.11s |
 | Server load | 7.15 |
 | Server responses | 12579GET |
-| Server IOps | 0.13GET/s |
+| Server IOps | 125.65GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 715954.00s |
-| Client IOps |  0.02GET/s  |
-| Client Latency | 56916.61ms/GET |
-| Client Limbo | 55362.88ms/GET |
-| Crowd time | 1601760.00s |
+| Client IOps |  17.57GET/s  |
+| Client Latency | 56.92ms/GET |
+| Client Limbo | 55.36ms/GET |
+| Crowd time | 1601.76s |
 | Crowd efficiency | 44.70% |
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
@@ -252,18 +252,18 @@ Distribution of the DELETE Latency in ms
 | Y Coordinate | Number of DELETE |
 | X Coordinate | Latency in ms |
 | Server volume | 2.686MiB|
-| Server bandwidth | 0.000MiB/s |
-| Server time | 263993.00s |
+| Server bandwidth | 0.010MiB/s |
+| Server time | 263.99s |
 | Server load | 15.92 |
 | Server responses | 88004DELETE |
-| Server IOps | 0.33DELETE/s |
-| Client bandwidth | 0.000MiB/s |
+| Server IOps | 333.36DELETE/s |
+| Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 4203783.00s |
-| Client IOps |  0.02DELETE/s  |
-| Client Latency | 47768.09ms/DELETE |
-| Client Limbo | 1256.56ms/DELETE |
-| Crowd time | 4223888.00s |
+| Client IOps |  20.93DELETE/s  |
+| Client Latency | 47.77ms/DELETE |
+| Client Limbo | 1.26ms/DELETE |
+| Crowd time | 4223.89s |
 | Crowd efficiency | 99.52% |
 | Highest Latency | 266.83ms |
 | 95th percentile Latency | 71.16ms |
