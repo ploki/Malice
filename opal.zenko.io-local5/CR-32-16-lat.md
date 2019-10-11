@@ -39,17 +39,20 @@ Distribution of the PUT Latency in ms
 | Server volume | 2.685MiB|
 | Server bandwidth | 0.009MiB/s |
 | Server time | 299.98s |
-| Server load | 12.41 |
+| Server load | 15915.24 |
 | Server responses | 87996PUT |
 | Server IOps | 293.34PUT/s |
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 3723.62s |
-| Client IOps |  23.63PUT/s  |
-| Client Latency | 42.32ms/PUT |
-| Client Limbo | 67.25ms/PUT |
+| Client time | 4774270.00s |
+| Client IOps |  0.02PUT/s  |
+
+| Client Latency | 54255.53ms/PUT |
+
+| Client Limbo | -298091.89ms/PUT |
+
 | Crowd time | 4799.70s |
-| Crowd efficiency | 77.58% |
+| Crowd efficiency | 99470.26% |
 | Highest Latency | 247.56ms |
 | 95th percentile Latency | 80.05ms |
 | 68th percentile Latency | 59.30ms |
@@ -95,17 +98,20 @@ Distribution of the GET Latency in ms
 | Server volume | 0.708MiB|
 | Server bandwidth | 0.007MiB/s |
 | Server time | 100.05s |
-| Server load | 12.75 |
+| Server load | 15811.83 |
 | Server responses | 23201GET |
 | Server IOps | 231.89GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
-| Client time | 1275.54s |
-| Client IOps |  18.19GET/s  |
-| Client Latency | 54.98ms/GET |
-| Client Limbo | 20.33ms/GET |
+| Client time | 1582021.00s |
+| Client IOps |  0.01GET/s  |
+
+| Client Latency | 68187.62ms/GET |
+
+| Client Limbo | -98776.26ms/GET |
+
 | Crowd time | 1600.85s |
-| Crowd efficiency | 79.68% |
+| Crowd efficiency | 98823.94% |
 | Highest Latency | 295.00ms |
 | 95th percentile Latency | 108.22ms |
 | 68th percentile Latency | 75.60ms |
@@ -163,17 +169,20 @@ Distribution of the PUT Latency in ms
 | Server volume | 0.387MiB|
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
-| Server load | 7.15 |
+| Server load | 15892.36 |
 | Server responses | 12686PUT |
 | Server IOps | 126.72PUT/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 715.29s |
-| Client IOps |  17.74PUT/s  |
-| Client Latency | 56.38ms/PUT |
-| Client Limbo | 55.40ms/PUT |
+| Client time | 1590984.00s |
+| Client IOps |  0.01PUT/s  |
+
+| Client Latency | 125412.58ms/PUT |
+
+| Client Limbo | -99336.39ms/PUT |
+
 | Crowd time | 1601.76s |
-| Crowd efficiency | 44.66% |
+| Crowd efficiency | 99327.24% |
 | Highest Latency | 281.66ms |
 | 95th percentile Latency | 105.25ms |
 | 68th percentile Latency | 77.09ms |
@@ -198,17 +207,20 @@ Distribution of the GET Latency in ms
 | Server volume | 0.384MiB|
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
-| Server load | 5.64 |
+| Server load | 15892.36 |
 | Server responses | 12579GET |
 | Server IOps | 125.65GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 564.98s |
-| Client IOps |  22.26GET/s  |
-| Client Latency | 44.91ms/GET |
-| Client Limbo | 64.80ms/GET |
+| Client time | 1590984.00s |
+| Client IOps |  0.01GET/s  |
+
+| Client Latency | 126479.37ms/GET |
+
+| Client Limbo | -99336.39ms/GET |
+
 | Crowd time | 1601.76s |
-| Crowd efficiency | 35.27% |
+| Crowd efficiency | 99327.24% |
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
 | 68th percentile Latency | 62.26ms |
@@ -254,17 +266,20 @@ Distribution of the DELETE Latency in ms
 | Server volume | 2.686MiB|
 | Server bandwidth | 0.010MiB/s |
 | Server time | 263.99s |
-| Server load | 12.83 |
+| Server load | 15927.66 |
 | Server responses | 88004DELETE |
 | Server IOps | 333.36DELETE/s |
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 3386.09s |
-| Client IOps |  25.99DELETE/s  |
-| Client Latency | 38.48ms/DELETE |
-| Client Limbo | 52.36ms/DELETE |
+| Client time | 4204792.00s |
+| Client IOps |  0.02DELETE/s  |
+
+| Client Latency | 47779.56ms/DELETE |
+
+| Client Limbo | -262535.51ms/DELETE |
+
 | Crowd time | 4223.89s |
-| Crowd efficiency | 80.17% |
+| Crowd efficiency | 99547.90% |
 | Highest Latency | 266.83ms |
 | 95th percentile Latency | 71.16ms |
 | 68th percentile Latency | 53.37ms |
