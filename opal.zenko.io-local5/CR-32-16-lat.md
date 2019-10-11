@@ -40,11 +40,14 @@ Distribution of the PUT Latency in ms
 | Server bandwidth | 0.009MiB/s |
 | Server time | 299.98s |
 | Server load | 12.41 |
-| Req. count | 87996PUT |
-| Req. per second | 293.34PUT/s |
+| Server responses | 87996PUT |
+| Server IOps | 293.34PUT/s |
+
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 3723.62s |
+| Client IOps |  23.63PUT/s  |
+| Client Latency | 0.04ms |
 | Crowd time | 4799.70s |
 | Crowd efficiency | 77.58% |
 | Highest Latency | 247.56ms |
@@ -93,11 +96,14 @@ Distribution of the GET Latency in ms
 | Server bandwidth | 0.007MiB/s |
 | Server time | 100.05s |
 | Server load | 12.75 |
-| Req. count | 23201GET |
-| Req. per second | 231.89GET/s |
+| Server responses | 23201GET |
+| Server IOps | 231.89GET/s |
+
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
 | Client time | 1275.54s |
+| Client IOps |  18.19GET/s  |
+| Client Latency | 0.05ms |
 | Crowd time | 1600.85s |
 | Crowd efficiency | 79.68% |
 | Highest Latency | 295.00ms |
@@ -158,11 +164,14 @@ Distribution of the PUT Latency in ms
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
 | Server load | 7.15 |
-| Req. count | 12686PUT |
-| Req. per second | 126.72PUT/s |
+| Server responses | 12686PUT |
+| Server IOps | 126.72PUT/s |
+
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 715.29s |
+| Client IOps |  17.74PUT/s  |
+| Client Latency | 0.06ms |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 44.66% |
 | Highest Latency | 281.66ms |
@@ -190,11 +199,14 @@ Distribution of the GET Latency in ms
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
 | Server load | 5.64 |
-| Req. count | 12579GET |
-| Req. per second | 125.65GET/s |
+| Server responses | 12579GET |
+| Server IOps | 125.65GET/s |
+
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 564.98s |
+| Client IOps |  22.26GET/s  |
+| Client Latency | 0.04ms |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 35.27% |
 | Highest Latency | 207.54ms |
@@ -243,11 +255,14 @@ Distribution of the DELETE Latency in ms
 | Server bandwidth | 0.010MiB/s |
 | Server time | 263.99s |
 | Server load | 12.83 |
-| Req. count | 88004DELETE |
-| Req. per second | 333.36DELETE/s |
+| Server responses | 88004DELETE |
+| Server IOps | 333.36DELETE/s |
+
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 3386.09s |
+| Client IOps |  25.99DELETE/s  |
+| Client Latency | 0.04ms |
 | Crowd time | 4223.89s |
 | Crowd efficiency | 80.17% |
 | Highest Latency | 266.83ms |
