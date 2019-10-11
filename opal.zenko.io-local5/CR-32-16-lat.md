@@ -36,13 +36,16 @@ Distribution of the PUT Latency in ms
 | --- | --- |
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
-| Workload duration | 299.98s |
-| Workload volume | 2.685MiB|
-| Workload bandwidth | 0.009MiB/s |
-| Client time spent | 3723.62s |
-| C.time/W.duration | 12.41 |
-| Request count | 87996PUT |
-| Request per second (avg.) | 293.34PUT/s |
+| Server volume | 2.685MiB|
+| Server bandwidth | 0.009MiB/s |
+| Server time | 299.98s |
+| Server load | 12.41 |
+| Server perf | 1.29 |
+| Req. count | 87996PUT |
+| Req. per second | 293.34PUT/s |
+| Client bandwidth | 0.001MiB/s |
+| Client volume | 0.168MiB|
+| Client time | 3723.62s |
 | Highest Latency | 247.56ms |
 | 95th percentile Latency | 80.05ms |
 | 68th percentile Latency | 59.30ms |
@@ -85,13 +88,16 @@ Distribution of the GET Latency in ms
 | --- | --- |
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
-| Workload duration | 100.05s |
-| Workload volume | 0.708MiB|
-| Workload bandwidth | 0.007MiB/s |
-| Client time spent | 1275.54s |
-| C.time/W.duration | 12.75 |
-| Request count | 23201GET |
-| Request per second (avg.) | 231.89GET/s |
+| Server volume | 0.708MiB|
+| Server bandwidth | 0.007MiB/s |
+| Server time | 100.05s |
+| Server load | 12.75 |
+| Server perf | 1.26 |
+| Req. count | 23201GET |
+| Req. per second | 231.89GET/s |
+| Client bandwidth | 0.000MiB/s |
+| Client volume | 0.044MiB|
+| Client time | 1275.54s |
 | Highest Latency | 295.00ms |
 | 95th percentile Latency | 108.22ms |
 | 68th percentile Latency | 75.60ms |
@@ -146,13 +152,16 @@ Distribution of the PUT Latency in ms
 | --- | --- |
 | Y Coordinate | Number of PUT |
 | X Coordinate | Latency in ms |
-| Workload duration | 100.11s |
-| Workload volume | 0.387MiB|
-| Workload bandwidth | 0.004MiB/s |
-| Client time spent | 715.29s |
-| C.time/W.duration | 7.15 |
-| Request count | 12686PUT |
-| Request per second (avg.) | 126.72PUT/s |
+| Server volume | 0.387MiB|
+| Server bandwidth | 0.004MiB/s |
+| Server time | 100.11s |
+| Server load | 7.15 |
+| Server perf | 2.24 |
+| Req. count | 12686PUT |
+| Req. per second | 126.72PUT/s |
+| Client bandwidth | 0.000MiB/s |
+| Client volume | 0.024MiB|
+| Client time | 715.29s |
 | Highest Latency | 281.66ms |
 | 95th percentile Latency | 105.25ms |
 | 68th percentile Latency | 77.09ms |
@@ -174,13 +183,16 @@ Distribution of the GET Latency in ms
 | --- | --- |
 | Y Coordinate | Number of GET |
 | X Coordinate | Latency in ms |
-| Workload duration | 100.11s |
-| Workload volume | 0.384MiB|
-| Workload bandwidth | 0.004MiB/s |
-| Client time spent | 564.98s |
-| C.time/W.duration | 5.64 |
-| Request count | 12579GET |
-| Request per second (avg.) | 125.65GET/s |
+| Server volume | 0.384MiB|
+| Server bandwidth | 0.004MiB/s |
+| Server time | 100.11s |
+| Server load | 5.64 |
+| Server perf | 2.84 |
+| Req. count | 12579GET |
+| Req. per second | 125.65GET/s |
+| Client bandwidth | 0.000MiB/s |
+| Client volume | 0.024MiB|
+| Client time | 564.98s |
 | Highest Latency | 207.54ms |
 | 95th percentile Latency | 88.94ms |
 | 68th percentile Latency | 62.26ms |
@@ -223,13 +235,16 @@ Distribution of the DELETE Latency in ms
 | --- | --- |
 | Y Coordinate | Number of DELETE |
 | X Coordinate | Latency in ms |
-| Workload duration | 263.99s |
-| Workload volume | 2.686MiB|
-| Workload bandwidth | 0.010MiB/s |
-| Client time spent | 3386.09s |
-| C.time/W.duration | 12.83 |
-| Request count | 88004DELETE |
-| Request per second (avg.) | 333.36DELETE/s |
+| Server volume | 2.686MiB|
+| Server bandwidth | 0.010MiB/s |
+| Server time | 263.99s |
+| Server load | 12.83 |
+| Server perf | 1.25 |
+| Req. count | 88004DELETE |
+| Req. per second | 333.36DELETE/s |
+| Client bandwidth | 0.001MiB/s |
+| Client volume | 0.168MiB|
+| Client time | 3386.09s |
 | Highest Latency | 266.83ms |
 | 95th percentile Latency | 71.16ms |
 | 68th percentile Latency | 53.37ms |
