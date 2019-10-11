@@ -1,5 +1,5 @@
 
-# Client bandwidth benchmark report. Crowd is 16
+# Latency benchmark report. Crowd is 16
 
 
 
@@ -12,30 +12,30 @@
 
 
 
-### PUT Client bandwidth in B over time
+### PUT Latency in ms over time
 
-![over-time-heatmap-clientBW-populate-nClients=16-objectSize=32](evileye/over-time-heatmap-clientBW-populate-nClients=16-objectSize=32-up.png)
+![over-time-heatmap-Latency-populate-nClients=16-objectSize=32](evileye/over-time-heatmap-Latency-populate-nClients=16-objectSize=32-up.png)
 
-Evolution of PUT Client bandwidth over time
+Evolution of PUT Latency over time
 
 | Parameter | Value |
 | --- | --- |
-| Y Coordinate | PUT Client bandwidth in B |
+| Y Coordinate | PUT Latency in ms |
 | X Coordinate | time in s since begining of workload |
 
 
-### PUT Client bandwidth distribution in B
+### PUT Latency distribution in ms
 
 
 
-![histogram-clientBW-populate-up-objectSize=32](evileye/histogram-clientBW-populate-up-objectSize=32-up.png)
+![histogram-Latency-populate-up-objectSize=32](evileye/histogram-Latency-populate-up-objectSize=32-up.png)
 
-Distribution of the PUT Client bandwidth in B
+Distribution of the PUT Latency in ms
 
 | Parameter | Value |
 | --- | --- |
 | Y Coordinate | Number of PUT |
-| X Coordinate | Client bandwidth in B |
+| X Coordinate | Latency in ms |
 | Server volume | 2.685MiB|
 | Server bandwidth | 0.009MiB/s |
 | Server time | 299.98s |
@@ -50,13 +50,13 @@ Distribution of the PUT Client bandwidth in B
 | Client Limbo | 1.59ms/PUT |
 | Crowd time | 4799.70s |
 | Crowd efficiency | 99.47% |
-| Highest Client bandwidth | 0.00B |
-| 95th percentile Client bandwidth | 3555.56B |
-| 68th percentile Client bandwidth | 3555.56B |
-| 50th percentile Client bandwidth | 3555.56B |
-| 32nd percentile Client bandwidth | 3555.56B |
-| 5th percentile Client bandwidth | 3555.56B |
-| Lowest Client bandwidth | 0.00B |
+| Highest Latency | 247.56ms |
+| 95th percentile Latency | 80.05ms |
+| 68th percentile Latency | 59.30ms |
+| 50th percentile Latency | 53.37ms |
+| 32nd percentile Latency | 47.44ms |
+| 5th percentile Latency | 35.58ms |
+| Lowest Latency | 16.31ms |
 
 
 ## Read workload
@@ -68,30 +68,30 @@ Distribution of the PUT Client bandwidth in B
 
 
 
-### GET Client bandwidth in B over time
+### GET Latency in ms over time
 
-![over-time-heatmap-clientBW-read-nClients=16-objectSize=32](evileye/over-time-heatmap-clientBW-read-nClients=16-objectSize=32-down.png)
+![over-time-heatmap-Latency-read-nClients=16-objectSize=32](evileye/over-time-heatmap-Latency-read-nClients=16-objectSize=32-down.png)
 
-Evolution of GET Client bandwidth over time
+Evolution of GET Latency over time
 
 | Parameter | Value |
 | --- | --- |
-| Y Coordinate | GET Client bandwidth in B |
+| Y Coordinate | GET Latency in ms |
 | X Coordinate | time in s since begining of workload |
 
 
-### GET Client bandwidth distribution in B
+### GET Latency distribution in ms
 
 
 
-![histogram-clientBW-read-down-objectSize=32](evileye/histogram-clientBW-read-down-objectSize=32-down.png)
+![histogram-Latency-read-down-objectSize=32](evileye/histogram-Latency-read-down-objectSize=32-down.png)
 
-Distribution of the GET Client bandwidth in B
+Distribution of the GET Latency in ms
 
 | Parameter | Value |
 | --- | --- |
 | Y Coordinate | Number of GET |
-| X Coordinate | Client bandwidth in B |
+| X Coordinate | Latency in ms |
 | Server volume | 0.708MiB|
 | Server bandwidth | 0.007MiB/s |
 | Server time | 100.05s |
@@ -106,13 +106,13 @@ Distribution of the GET Client bandwidth in B
 | Client Limbo | 1.25ms/GET |
 | Crowd time | 1600.85s |
 | Crowd efficiency | 98.75% |
-| Highest Client bandwidth | 0.00B |
-| 95th percentile Client bandwidth | 3555.56B |
-| 68th percentile Client bandwidth | 3555.56B |
-| 50th percentile Client bandwidth | 3555.56B |
-| 32nd percentile Client bandwidth | 3555.56B |
-| 5th percentile Client bandwidth | 3555.56B |
-| Lowest Client bandwidth | 0.00B |
+| Highest Latency | 295.00ms |
+| 95th percentile Latency | 108.22ms |
+| 68th percentile Latency | 75.60ms |
+| 50th percentile Latency | 65.23ms |
+| 32nd percentile Latency | 56.33ms |
+| 5th percentile Latency | 40.03ms |
+| Lowest Latency | 20.75ms |
 
 
 ## Mixed workload
@@ -124,42 +124,42 @@ Distribution of the GET Client bandwidth in B
 
 
 
-### PUT Client bandwidth in B over time
+### PUT Latency in ms over time
 
-![over-time-heatmap-clientBW-mixed-nClients=16-objectSize=32](evileye/over-time-heatmap-clientBW-mixed-nClients=16-objectSize=32-up.png)
+![over-time-heatmap-Latency-mixed-nClients=16-objectSize=32](evileye/over-time-heatmap-Latency-mixed-nClients=16-objectSize=32-up.png)
 
-Evolution of PUT Client bandwidth over time
-
-| Parameter | Value |
-| --- | --- |
-| Y Coordinate | PUT Client bandwidth in B |
-| X Coordinate | time in s since begining of workload |
-
-
-### GET Client bandwidth in B over time
-
-![over-time-heatmap-clientBW-mixed-nClients=16-objectSize=32](evileye/over-time-heatmap-clientBW-mixed-nClients=16-objectSize=32-down.png)
-
-Evolution of GET Client bandwidth over time
+Evolution of PUT Latency over time
 
 | Parameter | Value |
 | --- | --- |
-| Y Coordinate | GET Client bandwidth in B |
+| Y Coordinate | PUT Latency in ms |
 | X Coordinate | time in s since begining of workload |
 
 
-### PUT Client bandwidth distribution in B
+### GET Latency in ms over time
+
+![over-time-heatmap-Latency-mixed-nClients=16-objectSize=32](evileye/over-time-heatmap-Latency-mixed-nClients=16-objectSize=32-down.png)
+
+Evolution of GET Latency over time
+
+| Parameter | Value |
+| --- | --- |
+| Y Coordinate | GET Latency in ms |
+| X Coordinate | time in s since begining of workload |
+
+
+### PUT Latency distribution in ms
 
 
 
-![histogram-clientBW-mixed-up-objectSize=32](evileye/histogram-clientBW-mixed-up-objectSize=32-up.png)
+![histogram-Latency-mixed-up-objectSize=32](evileye/histogram-Latency-mixed-up-objectSize=32-up.png)
 
-Distribution of the PUT Client bandwidth in B
+Distribution of the PUT Latency in ms
 
 | Parameter | Value |
 | --- | --- |
 | Y Coordinate | Number of PUT |
-| X Coordinate | Client bandwidth in B |
+| X Coordinate | Latency in ms |
 | Server volume | 0.387MiB|
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
@@ -174,27 +174,27 @@ Distribution of the PUT Client bandwidth in B
 | Client Limbo | 45.42ms/PUT |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 54.63% |
-| Highest Client bandwidth | 0.00B |
-| 95th percentile Client bandwidth | 3555.56B |
-| 68th percentile Client bandwidth | 3555.56B |
-| 50th percentile Client bandwidth | 3555.56B |
-| 32nd percentile Client bandwidth | 3555.56B |
-| 5th percentile Client bandwidth | 3555.56B |
-| Lowest Client bandwidth | 0.00B |
+| Highest Latency | 281.66ms |
+| 95th percentile Latency | 105.25ms |
+| 68th percentile Latency | 77.09ms |
+| 50th percentile Latency | 68.19ms |
+| 32nd percentile Latency | 59.30ms |
+| 5th percentile Latency | 40.03ms |
+| Lowest Latency | 17.79ms |
 
 
-### GET Client bandwidth distribution in B
+### GET Latency distribution in ms
 
 
 
-![histogram-clientBW-mixed-down-objectSize=32](evileye/histogram-clientBW-mixed-down-objectSize=32-down.png)
+![histogram-Latency-mixed-down-objectSize=32](evileye/histogram-Latency-mixed-down-objectSize=32-down.png)
 
-Distribution of the GET Client bandwidth in B
+Distribution of the GET Latency in ms
 
 | Parameter | Value |
 | --- | --- |
 | Y Coordinate | Number of GET |
-| X Coordinate | Client bandwidth in B |
+| X Coordinate | Latency in ms |
 | Server volume | 0.384MiB|
 | Server bandwidth | 0.004MiB/s |
 | Server time | 100.11s |
@@ -209,13 +209,13 @@ Distribution of the GET Client bandwidth in B
 | Client Limbo | 55.36ms/GET |
 | Crowd time | 1601.76s |
 | Crowd efficiency | 44.70% |
-| Highest Client bandwidth | 0.00B |
-| 95th percentile Client bandwidth | 3555.56B |
-| 68th percentile Client bandwidth | 3555.56B |
-| 50th percentile Client bandwidth | 3555.56B |
-| 32nd percentile Client bandwidth | 3555.56B |
-| 5th percentile Client bandwidth | 3555.56B |
-| Lowest Client bandwidth | 0.00B |
+| Highest Latency | 207.54ms |
+| 95th percentile Latency | 88.94ms |
+| 68th percentile Latency | 62.26ms |
+| 50th percentile Latency | 54.85ms |
+| 32nd percentile Latency | 47.44ms |
+| 5th percentile Latency | 35.58ms |
+| Lowest Latency | 20.75ms |
 
 
 ## Cleanup workload
@@ -227,30 +227,30 @@ Distribution of the GET Client bandwidth in B
 
 
 
-### DELETE Client bandwidth in B over time
+### DELETE Latency in ms over time
 
-![over-time-heatmap-clientBW-cleanup-nClients=16-objectSize=32](evileye/over-time-heatmap-clientBW-cleanup-nClients=16-objectSize=32-del.png)
+![over-time-heatmap-Latency-cleanup-nClients=16-objectSize=32](evileye/over-time-heatmap-Latency-cleanup-nClients=16-objectSize=32-del.png)
 
-Evolution of DELETE Client bandwidth over time
+Evolution of DELETE Latency over time
 
 | Parameter | Value |
 | --- | --- |
-| Y Coordinate | DELETE Client bandwidth in B |
+| Y Coordinate | DELETE Latency in ms |
 | X Coordinate | time in s since begining of workload |
 
 
-### DELETE Client bandwidth distribution in B
+### DELETE Latency distribution in ms
 
 
 
-![histogram-clientBW-cleanup-del-objectSize=32](evileye/histogram-clientBW-cleanup-del-objectSize=32-del.png)
+![histogram-Latency-cleanup-del-objectSize=32](evileye/histogram-Latency-cleanup-del-objectSize=32-del.png)
 
-Distribution of the DELETE Client bandwidth in B
+Distribution of the DELETE Latency in ms
 
 | Parameter | Value |
 | --- | --- |
 | Y Coordinate | Number of DELETE |
-| X Coordinate | Client bandwidth in B |
+| X Coordinate | Latency in ms |
 | Server volume | 2.686MiB|
 | Server bandwidth | 0.010MiB/s |
 | Server time | 263.99s |
@@ -265,11 +265,11 @@ Distribution of the DELETE Client bandwidth in B
 | Client Limbo | 1.26ms/DELETE |
 | Crowd time | 4223.89s |
 | Crowd efficiency | 99.52% |
-| Highest Client bandwidth | 3555.56B |
-| 95th percentile Client bandwidth | 3555.56B |
-| 68th percentile Client bandwidth | 3555.56B |
-| 50th percentile Client bandwidth | 3555.56B |
-| 32nd percentile Client bandwidth | 3555.56B |
-| 5th percentile Client bandwidth | 3555.56B |
-| Lowest Client bandwidth | 3555.56B |
+| Highest Latency | 266.83ms |
+| 95th percentile Latency | 71.16ms |
+| 68th percentile Latency | 53.37ms |
+| 50th percentile Latency | 47.44ms |
+| 32nd percentile Latency | 41.51ms |
+| 5th percentile Latency | 31.13ms |
+| Lowest Latency | 8.89ms |
 
