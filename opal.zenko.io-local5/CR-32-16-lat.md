@@ -44,7 +44,7 @@ Distribution of the PUT Latency in ms
 | Server IOps | 293.34PUT/s |
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 4774270.00s |
+| Client time | 4774.27s |
 | Client IOps |  18.43PUT/s  |
 | Client Latency | 54.26ms/PUT |
 | Client Limbo | 1.59ms/PUT |
@@ -100,7 +100,7 @@ Distribution of the GET Latency in ms
 | Server IOps | 231.89GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
-| Client time | 1580789.00s |
+| Client time | 1580.79s |
 | Client IOps |  14.68GET/s  |
 | Client Latency | 68.13ms/GET |
 | Client Limbo | 1.25ms/GET |
@@ -168,7 +168,7 @@ Distribution of the PUT Latency in ms
 | Server IOps | 126.72PUT/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 875030.00s |
+| Client time | 875.03s |
 | Client IOps |  14.50PUT/s  |
 | Client Latency | 68.98ms/PUT |
 | Client Limbo | 45.42ms/PUT |
@@ -203,7 +203,7 @@ Distribution of the GET Latency in ms
 | Server IOps | 125.65GET/s |
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
-| Client time | 715954.00s |
+| Client time | 715.95s |
 | Client IOps |  17.57GET/s  |
 | Client Latency | 56.92ms/GET |
 | Client Limbo | 55.36ms/GET |
@@ -259,7 +259,7 @@ Distribution of the DELETE Latency in ms
 | Server IOps | 333.36DELETE/s |
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
-| Client time | 4203783.00s |
+| Client time | 4203.78s |
 | Client IOps |  20.93DELETE/s  |
 | Client Latency | 47.77ms/DELETE |
 | Client Limbo | 1.26ms/DELETE |
