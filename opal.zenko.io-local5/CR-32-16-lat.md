@@ -42,7 +42,6 @@ Distribution of the PUT Latency in ms
 | Server load | 12.41 |
 | Server responses | 87996PUT |
 | Server IOps | 293.34PUT/s |
-
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 3723.62s |
@@ -98,7 +97,6 @@ Distribution of the GET Latency in ms
 | Server load | 12.75 |
 | Server responses | 23201GET |
 | Server IOps | 231.89GET/s |
-
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.044MiB|
 | Client time | 1275.54s |
@@ -166,7 +164,6 @@ Distribution of the PUT Latency in ms
 | Server load | 7.15 |
 | Server responses | 12686PUT |
 | Server IOps | 126.72PUT/s |
-
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 715.29s |
@@ -201,7 +198,6 @@ Distribution of the GET Latency in ms
 | Server load | 5.64 |
 | Server responses | 12579GET |
 | Server IOps | 125.65GET/s |
-
 | Client bandwidth | 0.000MiB/s |
 | Client volume | 0.024MiB|
 | Client time | 564.98s |
@@ -257,7 +253,6 @@ Distribution of the DELETE Latency in ms
 | Server load | 12.83 |
 | Server responses | 88004DELETE |
 | Server IOps | 333.36DELETE/s |
-
 | Client bandwidth | 0.001MiB/s |
 | Client volume | 0.168MiB|
 | Client time | 3386.09s |
