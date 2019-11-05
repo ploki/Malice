@@ -2,9 +2,9 @@
 set title "Histogram of delstream latency"
 $histo << EOD
 0,18
-71,639
-142,899
-213,339
+71,641
+142,901
+213,335
 284,99
 356,20
 427,3
