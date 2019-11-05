@@ -1,1 +1,1 @@
-{"startTime":1572992201553,"endTime":1572992321050,"minLatency":19,"maxLatency":29428,"minMetric":19,"maxMetric":29428,"clientTime":{"up":160235039,"down":249481123,"del":0},"testDuration":119497,"dX":null,"dY":147.87939698492463,"dYMetric":147.87939698492463}
+{"startTime":1572992201553,"endTime":1572992321050,"minLatency":1,"maxLatency":"32000","minMetric":1,"maxMetric":"32000","clientTime":{"up":160235039,"down":249481123,"del":0},"testDuration":119497,"dX":null,"dY":160.80402010050253,"dYMetric":160.80402010050253}
